@@ -4,7 +4,7 @@
   "description": "Mocha Test Basics",
   "main": "index.js",
   "scripts": {
-    "test": "mocha indexSpec.js"
+    "test": "mocha test/indexSpec.js"
   },
   "author": "",
   "license": "ISC",
